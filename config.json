@@ -1,6 +1,6 @@
 {
-  "prefix": "YOUR_BOT_PREFIX_HERE",
-  "token": "YOUR_BOT_TOKEN_HERE",
+  "prefix": ".",
+  "token": "MTAyOTg5NjkyMDM5MjUzNjA5Ng.GIEt_z.k0FbPQFqc5gTodXZPrxf7Q_vYNFU_xBLCd4DcM",
   "permissions": "YOUR_BOT_PERMISSIONS_HERE",
   "application_id": "YOUR_APPLICATION_ID_HERE",
   "owners": [
