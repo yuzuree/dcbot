@@ -1,10 +1,7 @@
 {
   "prefix": ".",
   "token": "MTAyOTg5NjkyMDM5MjUzNjA5Ng.GIEt_z.k0FbPQFqc5gTodXZPrxf7Q_vYNFU_xBLCd4DcM",
-  "permissions": "YOUR_BOT_PERMISSIONS_HERE",
-  "application_id": "YOUR_APPLICATION_ID_HERE",
-  "owners": [
-    123456789,
-    987654321
-  ]
+  "permissions": "8",
+  "application_id": "1029896920392536096",
+  "owners": [759959797746368532]
 }
